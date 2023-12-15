@@ -3,11 +3,11 @@ $(document).ready(function() {
       event.preventDefault();
         const nameInput = $("input#name").val();
         const addressInput = $("input#address").val();
-        // const dateInput = $("input#date").val();
+        const dateInput = $("input#date").val();
         
-        // $(".name").text(nameInput);
-        // $(".address").text(addressInput);
-        // $(".date").text(dateInput);
+        $(".name").text(nameInput);
+        $(".address").text(addressInput);
+        $(".date").text(dateInput);
      
         // const Amount = $("#Amount").val();
         // $(".Amount").text(Amount);
