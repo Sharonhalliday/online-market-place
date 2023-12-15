@@ -9,8 +9,8 @@ $(document).ready(function() {
         $(".address").text(addressInput);
         $(".date").text(dateInput);
      
-        // const Amount = $("#Amount").val();
-        // $(".Amount").text(Amount);
+        const Amount = $("#Amount").val();
+        $(".Amount").text(Amount);
 
 
         // const jewelry = $("input:radio[name=jewelry]:checked").val();
