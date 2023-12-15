@@ -13,10 +13,10 @@ $(document).ready(function() {
         $(".Amount").text(Amount);
 
 
-        // const jewelry = $("input:radio[name=jewelry]:checked").val();
-        // $("#radio").text(jewelry);
+        const jewelry = $("input:radio[name=jewelry]:checked").val();
+        $("#radio").text(jewelry);
 
 
-        // $("#Receipt").show();
+        $("#Receipt").show();
     });
 });

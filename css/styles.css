@@ -31,16 +31,16 @@ ul{
 .space{
  padding-left: 80px;
 }
-/* #Receipt{
+#Receipt{
     display: none;
     padding-left: 300px;
     padding-top: 50px;
    
-} */
+}
 #Amount{
     width: 70px;
 }
-/* .card{
+.card{
     width: 530px;
     background-color:salmon;
    
@@ -53,5 +53,5 @@ ul{
 .modify2{
     padding-left: 140px;
     color:khaki;
-    font-weight: bolder; */
-} */
+    font-weight: bolder; 
+}
